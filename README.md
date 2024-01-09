@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 <h3>Stat🌱</h3>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra-jin&layout=compact"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ra-jin&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss00ye0n&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ss00ye0n&show_icons=true">
 </div>
